@@ -1,0 +1,19 @@
+[
+    {
+        "CONTEXT_NAME": "WEAR_COAT",
+        "TIME": 1
+    },
+    {
+        "CONTEXT_NAME": "PERSON_PASSING",
+        "TIME": 2
+    },
+   
+    {
+        "CONTEXT_NAME": "SHOULDER_BAG",
+        "TIME": 3
+    },
+    {
+        "CONTEXT_NAME": "DOOR_VIBRATE",
+        "TIME": 4
+    }
+]

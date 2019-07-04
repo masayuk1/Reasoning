@@ -1,0 +1,14 @@
+[
+    {
+        "CONTEXT_NAME": "DOOR_OPEN",
+        "FACTS": ["PERSON_PASSING", "DOOR_VIBRATE"]
+    },
+    {
+        "CONTEXT_NAME": "GOING_HOME",
+        "FACTS": ["GO_HOME", "DOOR_OPEN"]
+    },
+    {
+        "CONTEXT_NAME": "GO_HOME",
+        "FACTS": ["WEAR_COAT", "SHOULDER_BAG"]
+    }
+]
